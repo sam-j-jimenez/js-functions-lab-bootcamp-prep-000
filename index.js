@@ -1,9 +1,9 @@
-var string
+
 var name = "Bob"
 var days = "20"
 var holiday ="Easter"
 
-function happyHolidays(string){
+function happyHolidays(){
   return "Happy holidays!"
 }
 
