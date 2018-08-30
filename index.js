@@ -1,1 +1,10 @@
-function happyHolidaysTo(string)// write your code below!
+var string
+var name
+
+function happyHolidays(string){
+  return "Happy holidays! "
+}
+
+function happyHolidaysTo(string){
+  
+}
